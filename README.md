@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a simple project I did in order to start understanding bootstrap.
+
+<h1 align="center"><img src="https://ik.imagekit.io/cnbmdh4b9w/Screenshot_12_E8gdHHvM2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661992822745"
+/></h1>
 
 ## Available Scripts
 
